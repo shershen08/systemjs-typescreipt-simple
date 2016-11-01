@@ -1,0 +1,28 @@
+{
+  "name": "systemjs-typescript-simple",
+  "version": "0.0.1",
+  "description": "Minimalistic SystemJS + TS setup",
+  "main": "systemjs.config.js",
+  "dependencies": {
+    "systemjs": "^0.19.40"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shershen08/systemjs-typescript-simple.git"
+  },
+  "keywords": [
+    "systemjs",
+    "typescript",
+    "javascript"
+  ],
+  "author": "mkuznetcov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shershen08/systemjs-typescript-simple/issues"
+  },
+  "homepage": "https://github.com/shershen08/systemjs-typescript-simple#readme"
+}

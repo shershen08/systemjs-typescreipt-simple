@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+        "module": "system",
+        "target": "es5",
+        "noImplicitAny": false,
+        "sourceMap": true,
+        "removeComments": false,
+        "outDir": "./dist/"
+    },
+    //"files": ["./bootstrap.ts", "./model.ts"],
+    "filesGlob": [
+        "./src/**/*.ts"
+    ],
+    "compileOnSave": true,
+    "exclude": [
+        "node_modules"
+    ]
+}

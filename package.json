@@ -1,6 +1,6 @@
 {
   "name": "systemjs-typescript-simple",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Minimalistic SystemJS + TS setup",
   "main": "systemjs.config.js",
   "dependencies": {

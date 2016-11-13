@@ -5,12 +5,12 @@
 ### How to run
 
  - ```npm install```
- - http server of your choise (eg [whs](https://www.npmjs.com/package/watch-http-server))
+ - http server of your choice (eg [whs](https://www.npmjs.com/package/watch-http-server))
  
 ### How to develop
 
  - ```tsc -w```
- - http server of your choise 
+ - http server of your choice 
 
 
 ### Further questions
